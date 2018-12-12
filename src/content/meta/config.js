@@ -9,7 +9,7 @@ const config = {
   siteTitlePostfix: ` - ${base.name}`,
   siteDescription: `${
     base.name
-  } is a series starters: Minimal, Equipped, Themed, Website, Blog.`,
+  } - din e-handelsmotor från Wipcore`,
   siteImage: 'preview.jpg',
   siteLanguage: 'en',
 
