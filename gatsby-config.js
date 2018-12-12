@@ -5,6 +5,7 @@ module.exports = {
   siteMetadata: {
     title: config.siteTitle,
     siteUrl: config.siteUrl,
+    pathPrefix: "/enova-docs"
   },
   plugins: [
     {
