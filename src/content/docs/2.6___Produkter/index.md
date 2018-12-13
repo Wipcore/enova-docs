@@ -21,5 +21,3 @@ I klippet nedan skapar vi Beautiful Floor Lamp, kopplar den till Standard Price 
 ##### Klicka på Catalog → Products → Add New Product
 
 `video: https://youtu.be/lW4KbXDNlLo`
-
-HEJ
