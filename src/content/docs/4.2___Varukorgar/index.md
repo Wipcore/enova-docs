@@ -2,7 +2,7 @@
 title: Varukorgar
 categories: ['second']
 ---
-### Varukorgen
+## Varukorgen
 
 En användare som handlar i vår shop lägger produkter i sin varukorg, vilket innebär att en Cart skapas i Enova och när användaren betalar, eller checkar ut, skapas en Order i Enova. Det är också möjligt för oss som administratörer att skapa en Cart åt en kund och lägga en order utifrån den, för de kunder som behöver lite hjälp på traven. Skulle det hända att en kund har lagt tid på att fylla en Cart och av någon anledning blivit av med Cart:en kan vi gå in i Enova och titta på den specifika kundens Cart:s och skapa order utifrån den förlorade Cart:en. Man kan se en Cart som ett förstadium till en Order. Och vice versa, där en Order är en Cart som gått i mål.   
 

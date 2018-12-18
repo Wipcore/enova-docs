@@ -2,7 +2,7 @@
 title: Produkter
 categories: ['general']
 ---
-### Lägga till produkter
+## Skapa produkt
 
 Nu är de viktigaste bitarna på plats för att vi ska kunna skapa en meningsfull produkt i Enova. Flödet som vi har gått igenom nu kan automatiseras med hjälp av integrationer med affärssystem och PIM-lösningar, men nu gjorde vi allting manuellt för att lära oss hur Enova fungerar under huven. Allt vi har gjort hittills hjälper oss nu när vi ska skapa en produkt, för en produkt behöver grejerna vi precis har skapat. 
 

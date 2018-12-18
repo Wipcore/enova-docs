@@ -3,7 +3,7 @@ title: Kampanjhantering
 categories: ['last']
 ---
 
-### Skapa kampanjer  
+## Skapa kampanjer  
 Specialerbjudanden är viktiga för alla e-handlare. Det är både ett verktyg för att belöna befintliga kunder och för att locka nya kunder, eller för att väcka kunder vars inköp har börjat dala. Kampanjer i Enova kan utformas på en mängd olika sätt. Gemensamt för alla sorters kampanjer är att de har villkor som måste uppfyllas, som resulterar i en belöning i form av en rabatt eller produkter som slängs med på köpet. Villkor och incitament kombineras fritt i Enova, vilket innebär att du som administratör har fritt spelrum när det kommer till hur du vill utforma din kampanj. Nedan går vi igenom villkor och incitament och avslutningsvis demonstrerar vi med video hur man skapar några olika kampanjer.  
 
 

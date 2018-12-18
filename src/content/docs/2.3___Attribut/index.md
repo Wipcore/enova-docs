@@ -3,13 +3,13 @@ title: Attribut
 categories: ['general']
 ---
 
-### Skapa attribut 
+## Skapa attribut 
 
 Alla produkter har ett antal attribut som listas när man går in på produktsidan. Eftersom en e-handel inte består av homogena produkter behöver vi skapa olika uppsättningar med attribut som kan användas på olika sorters produkter. Armaturer har andra attribut än ljuskällor och så vidare.  
   
 Vi fortsätter med exemplet Golvlampor och skapar en uppsättning med attribut som ska passa alla golvlampor. När vi sedan skapar en produkt som är en golvlampa kommer vi koppla attributen vi skapar här till den produkten.  
 
-#### Attribute Values  
+#### Attributvärden  
 
 På samma sätt som en nyskapad kategori är en tom behållare som vi kan populera, är en nyskapad Attribute Type en tom behållare som vi antingen kan populera med specifika värden eller fritextvärden. Detta sker genom alternativet IsContinous. Väljer vi att IsContinous ska vara påslagen, kan vi skriva vilka värden vi vill i värdefältet. Och när den är av måste vi specificera vilka värden som är valbara. När vi når fram till steget där vi ska skapa en produkt kommer skillnaden mellan IsContinous och ej IsContinous bli tydligare. 
 

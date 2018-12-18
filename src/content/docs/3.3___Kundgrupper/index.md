@@ -2,7 +2,7 @@
 title: Kundgrupper
 categories: ['first']
 ---
-### Skapa kundgrupp
+## Skapa kundgrupp
 
 Kundgrupper är i princip samma sak som företag, med skillnaden att du inte kan spara kontaktinformation på en kundgrupp. Det är liksom företag en tom behållare som kan populeras med användare och prislistor.   
 
