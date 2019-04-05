@@ -56,6 +56,7 @@ Vi tänker nu skapa 4 olika exempelkampanjer i Enova. En för varje villkor i sy
         Gäller mellan 20190110-20190210.
         Kan förbrukas max 1 gång per kund och order.
         Kan förbrukas totalt 10 gånger i systemet.
+        Kampanjkod: floorlampz.
         Gäller för alla kunder.
 
 `video: https://www.youtube.com/watch?v=H03gKPt8sJE`
@@ -76,6 +77,7 @@ Vi tänker nu skapa 4 olika exempelkampanjer i Enova. En för varje villkor i sy
         Gäller mellan 20190606-20190625.
         Kan förbrukas max 1 gång per kund och order.
         Kan förbrukas totalt 25 gånger i systemet.
+        Kampanjkod: 3för1.
         Gäller för alla kunder.
 
 `video: https://www.youtube.com/watch?v=c9QXWppz6-w`
